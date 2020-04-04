@@ -1,13 +1,38 @@
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  padding: 0 20% 0 20%;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.form {
+  margin-top: 1em;
+}
+
+.form-3lu-alan {
+  padding: 0 2% 0 3%;
+}
+
+.button {
+  margin-left: 2%;
+}
+
+.sonuc {
+  margin-top: 1em;
+  margin-left: 1em;
+}
+
+.satisFiyati {
+  color: blue;
+  font-size: large;
+  margin-right: 0.4em;
+}
+
+.toplamMaliyet {
+  color: crimson;
+  font-size: large;
+  margin-right: 0.4em;
+}
+
+.kar {
+  color: darkgreen;
+  font-size: large;
+  margin-right: 0.4em;
 }
